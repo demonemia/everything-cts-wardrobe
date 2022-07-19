@@ -39,4 +39,5 @@ Learning the basics will be enough for anyone to make use of Wardrobe to better 
 
 There is a small set of features that are designated as premium only. The premium subscription is an affordable way to continue to support CTS with the ongoing monthly costs of hosting all of the Wardrobe data for us. 
 
-1. Current Body System
+1. Premium Offering Overview
+2. Current Body System
