@@ -1,6 +1,6 @@
 ---
 date: 2022-07-16
-layout: page
+layout: default
 title: everything wardrobe
 ---
 
@@ -25,7 +25,7 @@ Learning the basics will be enough for anyone to make use of Wardrobe to better 
 2. The Wardrobe Web Page
 3. Setting up RLV
 4. Uploading Your First Item
-5. Uploading Your First Outfit
+5. [[Uploading Your First Outfit]]
 
 ## wardrobe advanced
 
